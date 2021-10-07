@@ -1,5 +1,5 @@
 <?php 
-    $xml = simplexml_load_file("/xampp/Config/webconfig.xml");
+    $xml = simplexml_load_file("../../../Config/webconfig.xml");
 
     //LA COPA DEL SABER PRUEBA
     $ipServidor                         =       $xml->iplacopaprueba;
