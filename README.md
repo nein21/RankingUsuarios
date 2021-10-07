@@ -1,2 +1,2 @@
 # RankingUsuarios
-Proyecto realizadopara prueba
+Proyecto realizado para prueba
