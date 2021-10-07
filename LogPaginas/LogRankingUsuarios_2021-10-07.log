@@ -1,0 +1,459 @@
+[ |2021-10-07 06:33:07.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:34:25.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:34:25.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:36:12.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:36:12.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:36:12.000000| ]0
+[ |2021-10-07 06:36:33.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:36:33.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:36:33.000000| ]0
+[ |2021-10-07 06:38:07.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:38:07.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:38:09.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.] 
+[ |2021-10-07 06:38:32.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:38:32.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:38:34.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.] 
+[ |2021-10-07 06:40:10.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:40:10.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:40:12.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.] 
+[ |2021-10-07 06:49:33.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:33.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:33.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:36.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:36.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:36.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:37.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:37.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:37.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:38.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:38.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:38.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:39.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:39.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:39.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:39.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:39.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:39.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:40.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:40.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:40.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:41.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:41.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:41.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:41.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:41.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:41.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:49:42.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:49:42.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:49:42.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:51:42.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:51:42.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:51:42.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:51:42.000000| ][CDataBase::getConsulta] Error en la conexion: --
+[ |2021-10-07 06:51:42.000000| ][modelRankingUsuarios::GetJornada] Ocurrio un error[Error en la conexion: --] 
+[ |2021-10-07 06:51:58.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:51:58.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:51:58.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:51:58.000000| ][modelRankingUsuarios::GetJornada] Ocurrio un error[] 
+[ |2021-10-07 06:54:30.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:54:30.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:54:30.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:54:30.000000| ][modelRankingUsuarios::GetJornada] Ocurrio un error[] 
+[ |2021-10-07 06:56:12.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:56:12.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:56:12.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:56:12.000000| ][modelRankingUsuarios::GetJornada] Ocurrio un error[] 
+[ |2021-10-07 06:56:14.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 06:56:14.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 06:56:14.000000| ][CConexion::GetConectionDataBase] ERR Abrir Conexion [SQLSTATE[HY000] [1049] Unknown database acopadelsaber_prueba] 
+[ |2021-10-07 06:56:14.000000| ][modelRankingUsuarios::GetJornada] Ocurrio un error[] 
+[ |2021-10-07 07:03:06.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:03:06.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:03:06.000000| ][modelRankingUsuarios::GetJornada] Ocurrio un error[] 
+[ |2021-10-07 07:03:35.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:03:35.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:03:35.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:04:00.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:04:00.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:04:00.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:04:01.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:04:23.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:04:23.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:04:23.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:04:23.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:04:41.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 07:04:41.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 07:04:41.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 07:04:41.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:13:42.000000| ][] [GetJornada] 
+[ |2021-10-07 07:13:42.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:13:42.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:13:42.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:14:08.000000| ][C:\xampp\htdocs\RankingUsuarios\Controller\ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:14:08.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:14:08.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:14:08.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:15:13.000000| ][] [GetJornada] 
+[ |2021-10-07 07:15:13.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:15:13.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:15:13.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:15:35.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:15:35.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:15:35.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:15:36.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:23:18.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:23:18.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:23:18.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:23:18.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:25:08.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:25:08.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:25:08.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:25:09.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:25:14.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:25:14.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:25:14.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:25:14.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:26:09.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:26:09.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:26:09.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:26:10.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:26:16.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:26:16.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:26:16.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:26:16.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:26:28.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:26:28.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:26:28.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:26:28.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:26:58.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:26:58.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:26:58.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:26:58.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:27:10.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:27:10.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:27:10.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:27:10.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:31:37.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:31:37.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:31:37.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:31:37.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:33:40.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:33:40.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:33:40.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:33:40.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:35:07.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:35:07.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:35:07.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:35:08.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:36:03.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:36:03.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:36:03.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:36:03.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:36:47.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:36:47.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:36:47.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:36:47.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:37:24.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:37:24.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:37:24.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:37:24.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:37:38.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:37:38.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:37:38.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:37:38.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:38:42.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:38:42.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:38:42.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:38:42.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:38:43.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:38:43.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 07:38:43.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 07:38:44.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:38:47.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:38:47.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:38:47.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:38:47.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:38:49.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:38:49.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 07:38:49.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 07:38:49.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:38:51.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 07:38:51.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 07:38:51.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 07:38:51.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:46:12.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:46:12.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 07:46:12.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 07:46:13.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:46:14.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:46:14.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:46:14.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:46:15.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:47:12.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:47:12.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 07:47:12.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 07:47:13.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:47:13.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:47:13.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:47:13.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:47:13.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:47:16.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:47:16.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 07:47:16.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 07:47:16.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:47:19.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 07:47:19.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 07:47:19.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 07:47:19.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:47:22.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:47:22.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:47:22.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:47:22.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:47:25.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:47:25.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 07:47:25.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 07:47:25.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 07:47:27.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 07:47:27.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 07:47:27.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 07:47:27.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:23:14.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:23:14.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:23:14.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:23:14.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:23:26.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:23:26.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:23:26.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:23:26.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:23:27.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:23:27.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:23:27.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:23:27.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:23:28.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:23:28.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:23:28.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:23:29.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:23:29.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:23:29.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:23:29.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:23:29.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:23:50.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:23:50.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:23:50.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:23:50.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:24:17.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:24:17.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:24:17.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:24:17.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:32:08.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:32:08.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:32:08.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:32:08.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:36:07.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:36:07.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:36:07.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:36:07.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:37:38.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:37:38.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:37:38.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:37:38.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:38:08.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:38:08.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:38:08.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:38:08.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:39:17.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:39:17.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:39:17.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:39:17.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:42:21.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:42:21.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:42:21.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:42:21.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:43:32.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:43:32.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:43:32.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:43:32.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:44:02.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:44:02.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:44:02.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:44:03.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:44:58.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:44:58.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:44:58.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:44:58.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:45:51.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:45:51.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:45:51.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:45:51.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:49:27.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:49:27.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:49:27.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:49:27.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:49:32.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:49:32.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:49:32.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:49:33.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:53:18.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:53:18.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:53:18.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:53:18.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 08:58:34.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 08:58:34.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 08:58:34.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 08:58:34.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:00:27.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:00:27.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:00:27.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:00:27.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:00:42.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:00:42.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:00:42.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:00:42.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:01:42.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:01:42.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:01:42.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:01:42.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:02:09.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:02:09.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:02:09.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:02:09.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:02:38.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:02:38.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:02:38.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:02:38.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:03:07.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:03:07.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:03:07.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:03:07.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:06:37.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:06:37.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:06:37.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:06:37.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:07:18.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:07:18.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:07:18.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:07:18.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:07:51.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:07:51.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:07:51.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:07:52.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:08:34.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:08:34.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:08:34.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:08:34.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:10:08.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:10:08.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:10:08.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:10:08.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:18:53.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:18:53.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:18:53.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:18:53.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:19:12.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:19:12.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:19:12.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:19:12.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:19:37.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:19:37.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:19:37.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:19:37.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:30:20.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:30:20.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:30:20.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:30:20.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:31:20.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:31:20.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:31:20.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:31:21.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:17.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:17.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:37:17.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:37:17.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:18.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:18.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:37:18.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:37:18.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:20.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 09:37:20.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 09:37:20.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 09:37:20.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:21.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:21.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:37:21.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:37:21.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:23.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:23.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:37:23.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:37:23.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:24.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 09:37:24.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 09:37:24.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 09:37:24.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:47.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:47.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:37:47.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:37:47.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:48.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:48.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:37:48.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:37:48.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:49.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 09:37:49.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 09:37:49.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 09:37:49.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:50.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:50.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:37:50.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:37:50.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:51.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:37:51.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:37:51.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:37:52.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:37:52.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 09:37:52.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 09:37:52.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 09:37:52.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:00.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:00.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:38:00.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:38:01.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:03.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 09:38:03.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 09:38:03.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 09:38:03.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:05.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:05.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:38:05.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:38:05.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:17.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:17.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:38:17.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:38:17.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:17.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 09:38:17.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 09:38:17.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 09:38:17.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:47.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:47.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:38:47.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:38:47.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:48.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:48.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:38:48.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:38:48.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:49.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:49.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:38:49.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:38:49.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:50.000000| ][ctrlRankingUsuarios.php] [GetGeneral] 
+[ |2021-10-07 09:38:50.000000| ][modelRankingUsuarios::GetGeneral] General
+[ |2021-10-07 09:38:50.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetGeneral();]
+[ |2021-10-07 09:38:51.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:52.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:52.000000| ][modelRankingUsuarios::GetJornada] Jornada[2]
+[ |2021-10-07 09:38:52.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(2);]
+[ |2021-10-07 09:38:52.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
+[ |2021-10-07 09:38:52.000000| ][ctrlRankingUsuarios.php] [GetJornada] 
+[ |2021-10-07 09:38:52.000000| ][modelRankingUsuarios::GetJornada] Jornada[1]
+[ |2021-10-07 09:38:52.000000| ][CDataBase::getConsulta] DataBase[1001] Consulta [call SP_GetJornada(1);]
+[ |2021-10-07 09:38:53.000000| ][CDataBase::getConsulta] Consulta realizada correctamente 
