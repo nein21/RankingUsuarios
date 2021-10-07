@@ -1,6 +1,6 @@
 <?php 
     /////////////////////////RUTAS
-    define('ROUTE_LOG_'								,"/xampp/LogPaginas/LogRankingUsuarios_");
+    define('ROUTE_LOG_'								,"../../../LogPaginas/LogRankingUsuarios_");
 
     /////////////////////////DATA BASE
     define('LA_COPA_DEL_SABER_PRUEBA'				,1001);
